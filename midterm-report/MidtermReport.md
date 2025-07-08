@@ -262,6 +262,7 @@ Since our approach of unsupervised learning is primarily applicable for explorin
 [Gantt Chart](https://gtvault-my.sharepoint.com/:x:/g/personal/icoriolan3_gatech_edu/EYpQbtKJPKFKvGStyM0aYYQBilzmHhuhUHnsH97ha5lsLA?e=8GEGr2)
 
 ## Contribution Table
+
 | Name | Proposal Contributions | 
 | :--- | :--- |
 | Harmony Nagle | Problem & Motivation, Data Preprocessing, PCA |
