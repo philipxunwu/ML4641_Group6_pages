@@ -259,7 +259,7 @@ Since our approach of unsupervised learning is primarily applicable for explorin
 [4] S. Mir, “NBA Draft Analysis: Using Machine Learning to Project NBA Success” Towards Data Science, Feb. 07, 2022. [https://towardsdatascience.com/nba-draft-analysis-using-machine-learning-to-project-nba-success-a1c6bf576d19/](https://towardsdatascience.com/nba-draft-analysis-using-machine-learning-to-project-nba-success-a1c6bf576d19/)
 
 ## Gantt Chart
-![Gantt Chart](https://gtvault-my.sharepoint.com/:x:/g/personal/icoriolan3_gatech_edu/EYpQbtKJPKFKvGStyM0aYYQBilzmHhuhUHnsH97ha5lsLA?e=zNRx1Y)
+[Gantt Chart](https://gtvault-my.sharepoint.com/:x:/g/personal/icoriolan3_gatech_edu/EYpQbtKJPKFKvGStyM0aYYQBilzmHhuhUHnsH97ha5lsLA?e=8GEGr2)
 
 ## Contribution Table
 | Name | Proposal Contributions | 
