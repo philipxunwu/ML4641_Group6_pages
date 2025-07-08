@@ -267,7 +267,7 @@ Since our approach of unsupervised learning is primarily applicable for explorin
 | --- | --- |
 | Harmony Nagle | Problem & Motivation, Data Preprocessing, PCA |
 | William Silva |  |
-| Isaiah Coriolan |Methods (Data Preprocessing & KNN Imputation), EDA,PCA, Next Steps| 
-| Philip Wu | Results and Discussion, GitHub Pages| 
+| Isaiah Coriolan |Methods (Data Preprocessing & KNN Imputation), EDA,PCA, Next Steps | 
+| Philip Wu | Results and Discussion, GitHub Pages | 
 | Shuhan Lin | Model | 
 
